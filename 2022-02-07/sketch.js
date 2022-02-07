@@ -46,6 +46,7 @@ const characterPositions = [
   [7, 15],
   [8, 0],
   [9, 1],
+  [10, 1],
 ];
 const enemyPositions = [
   [10, 10],
@@ -69,6 +70,7 @@ const enemyPositions = [
   [10, 10],
   [10, 11],
   [10, 12],
+  [10, 11],
 ];
 var characterX = characterPositions[0][0], characterY = characterPositions[0][1], characterColour = tile_colours[4];
 var enemyX = enemyPositions[0][0], enemyY = enemyPositions[0][1], enemyColour = tile_colours[6];
