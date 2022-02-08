@@ -206,3 +206,14 @@ const mapColor = (startColor, finishColor) => {
   }
   return retColor;
 };
+
+// Fullscreen code taken from @takawo
+function mousePressed() {
+  let fs = fullscreen();
+  fullscreen(!fs);
+  if (fs) {
+    cursor();
+  } else {
+    noCursor();
+  }
+}
