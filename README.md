@@ -1,10 +1,12 @@
 # @alecrem's \#AltEdu2022 sketches
 
-- [ Square responsive full-screen boilerplate](boilerplate) | [code](https://github.com/alecrem/AltEdu2022/blob/main/boilerplate/sketch.js)
-- [2022-02-07](2022-02-07) | [code](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-07/sketch.js)
-- [2022-02-08](2022-02-08) | [code](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-08/sketch.js)
-- [2022-02-10](2022-02-10) | [code](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-10/sketch.js)
-- [2022-02-11](2022-02-11) | [code](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-11/sketch.js)
+| Run Sketch | See Code |
+|---|---|
+| [Square responsive full-screen boilerplate](https://alecrem.github.io/AltEdu2022/boilerplate) | [boilerplate](https://github.com/alecrem/AltEdu2022/blob/main/boilerplate/sketch.js) |
+| [2022-02-07](https://alecrem.github.io/AltEdu2022/2022-02-07) | [2022-02-07](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-07/sketch.js) |
+| [2022-02-08](https://alecrem.github.io/AltEdu2022/2022-02-08) | [2022-02-08](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-08/sketch.js) |
+| [2022-02-10](https://alecrem.github.io/AltEdu2022/2022-02-10) | [2022-02-10](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-10/sketch.js) |
+| [2022-02-11](https://alecrem.github.io/AltEdu2022/2022-02-11) | [2022-02-11](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-11/sketch.js) |
 
 ## About \#AltEdu2022 Coding Challenge
 
