@@ -8,6 +8,7 @@
 | [2022-02-10](https://alecrem.github.io/AltEdu2022/2022-02-10) | [2022-02-10](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-10/sketch.js) |
 | [2022-02-11](https://alecrem.github.io/AltEdu2022/2022-02-11) | [2022-02-11](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-11/sketch.js) |
 | [2022-02-12](https://alecrem.github.io/AltEdu2022/2022-02-12) | [2022-02-12](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-12/sketch.js) |
+| [2022-02-18](https://alecrem.github.io/AltEdu2022/2022-02-18) | [2022-02-18](https://github.com/alecrem/AltEdu2022/blob/main/2022-02-18/sketch.js) |
 
 ## About \#AltEdu2022 Coding Challenge
 
